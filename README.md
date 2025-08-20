@@ -2,38 +2,39 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E67E22&center=true&vCenter=true&repeat=false&width=1250&lines=Welcome+to+GOMUGOMU+STUDIOS+🎨+Your+Gateway+to+Creative+Excellence!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1250&lines=Welcome+to+GOMUGOMU+STUDIOS+🚀+Where+Technology+Meets+Creativity!)](https://git.io/typing-svg)
 
 </div>
 <br>
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Greetings! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;We Are <span style="color: #e67e22;">GOMUGOMU STUDIOS</span></h1>
+<h1 align="center">Greetings! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;We Are <span style="color: #DC143C;">GOMUGOMU STUDIOS</span></h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E67E22&size=29&height=70&center=true&vCenter=true&width=1200&lines=Creative+Animation+Studio;3D+Modeling+Specialists;Product+Design+Innovators;Packaging+Design+Experts;Software+Development+Team;Turning+Ideas+into+Worlds;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=FFFFFF&size=29&height=70&center=true&vCenter=true&width=1200&lines=Full+Stack+Development+%26+Creative+Studio;Software+Solutions+%7C+Animation+%26+Design;Web+Applications+%7C+3D+Modeling;E-Commerce+%7C+Motion+Graphics;UI/UX+Design+%7C+Backend+Systems;Technology+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
 </h3>
 
 <h3 align="center"><strong>✨ <em>"Turning Ideas into Worlds — Animation, Design & Software That Inspire."</em> ✨</strong></h3>
 
 <br><br>
 
-<img align="right" alt="Creative Process" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+<img align="right" alt="Creative Technology" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gomugomu-studios&label=Studio%20Visitors&color=e67e22&style=for-the-badge&abbreviated=true" alt="gomugomu-studios" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gomugomu-studios&label=Studio%20Visitors&color=DC143C&style=for-the-badge&abbreviated=true" alt="gomugomu-studios" /> </p>
 
-## 🎯 About GOMUGOMU STUDIOS
+## 🌟 About GOMUGOMU STUDIOS
 
-We are a **dynamic creative studio** specializing in bringing imagination to life through cutting-edge technology and artistic excellence. Our multidisciplinary team combines creativity with technical expertise to deliver exceptional results across multiple domains.
+We are a **hybrid technology and creative studio** that bridges the gap between cutting-edge software development and stunning visual design. Our multidisciplinary team excels in both **technical innovation** and **creative excellence**.
 
-- 🎬 **Currently Crafting:** Next-generation animation projects and immersive 3D experiences
-- 🌱 **Always Learning:** Latest tools in Blender, Cinema 4D, Unity, and emerging tech
-- 💬 **Talk to Us About:** Animation pipelines, 3D workflows, product design strategies, packaging solutions
-- 📫 **Reach Our Team:** studio@gomugomu.com
-- 🤝 **Open for Collaboration:** Creative projects, design partnerships, and innovative software solutions
-- 👀 **We're Passionate About:** Pushing creative boundaries and transforming concepts into reality
-- ⚡ **Fun Fact:** We turn coffee into pixels, polygons, and pure magic! ☕✨
+- 💻 **Current Tech Projects:** Enterprise web applications, custom software solutions, API development
+- 🎨 **Current Creative Work:** 3D animations, product visualizations, brand identity design
+- 🌱 **Always Learning:** Latest frameworks, animation tools, AI/ML, creative technologies
+- 💬 **Talk to Us About:** Full-stack development, 3D modeling, web design, animation, software architecture
+- 📫 **Reach Our Teams:** dev@gomugomu.com | creative@gomugomu.com | studio@gomugomu.com
+- 🤝 **Open for Collaboration:** Tech startups, creative agencies, product launches, digital transformations
+- 👀 **We're Passionate About:** Solving complex problems with elegant code AND beautiful design
+- ⚡ **Fun Fact:** We code by day, animate by night, and dream in pixels and polygons! 🌙✨
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -41,66 +42,56 @@ We are a **dynamic creative studio** specializing in bringing imagination to lif
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-## 🚀 Our Services
+## 🚀 Our Dual Expertise
 
 <table align="center" style="border: none;">
 <tr>
 <td width="50%" align="center" style="border: none;">
 
-### 🎭 **Animation & Motion Graphics**
-- 2D/3D Character Animation
-- Motion Graphics & VFX
-- Explainer Videos
-- Brand Animation
+### 💻 **TECHNOLOGY SOLUTIONS** 🔥
+- **Custom Web Applications**
+- **Full-Stack Development** 
+- **E-Commerce Platforms**
+- **API Development & Integration**
+- **Database Design & Architecture**
+- **Cloud Solutions & DevOps**
+- **Mobile Applications**
+- **Enterprise Software**
 
 </td>
 <td width="50%" align="center" style="border: none;">
 
-### 🎨 **3D Modeling & Rendering**
-- Product Visualization
-- Architectural Renders
-- Character Modeling
-- Environmental Design
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="border: none;">
-
-### 📦 **Product & Packaging Design**
-- Brand Identity Design
-- Packaging Solutions
-- Product Prototyping
-- Market-Ready Designs
-
-</td>
-<td width="50%" align="center" style="border: none;">
-
-### 💻 **Software Development**
-- Interactive Applications
-- Web Development
-- Creative Tools & Plugins
-- Custom Solutions
+### 🎨 **CREATIVE SERVICES** 🔥
+- **3D Modeling & Animation**
+- **Motion Graphics & VFX**
+- **Product Visualization**
+- **Brand Identity Design**
+- **UI/UX Design**
+- **Packaging Design**
+- **Character Animation**
+- **Interactive Experiences**
 
 </td>
 </tr>
 </table>
 
-## ✨ Why Choose GOMUGOMU STUDIOS?
+## 🏆 Why Choose GOMUGOMU STUDIOS?
 
-🎯 **Creative Excellence** → Award-winning designs and animations that captivate audiences  
-🔧 **Technical Mastery** → Cutting-edge tools and proven development methodologies  
-🏛️ **Trusted Experience** → Government-backed projects and enterprise-level deliveries  
-🌐 **Full-Stack Solutions** → From concept to deployment, we handle it all  
-🚀 **Innovation Focus** → Always exploring new technologies and creative possibilities
+💻 **Technical Mastery** → Enterprise-grade software solutions with modern architecture  
+🎨 **Creative Excellence** → Award-winning designs and animations that captivate audiences  
+🔄 **Full-Service Approach** → Complete digital solutions from code to visual storytelling  
+🏛️ **Proven Track Record** → Government contracts and Fortune 500 client deliveries  
+⚡ **Rapid Innovation** → Agile development + creative iteration for faster results  
+🌐 **Industry Versatility** → Deep experience across tech, entertainment, and business sectors
 
 <div align="center">
-<h2 align='center'><strong>Connect With Our Studio 🌐</strong></h2>
+<h2 align='center'><strong>Connect With Our Teams 🌐</strong></h2>
 
 <br><br>
 <a href="https://www.linkedin.com/company/gomugomu-studios"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:studio@gomugomu.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://gomugomu-studios.com"><img src="https://img.shields.io/badge/website-%23E67E22.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://gomugomu-studios.com"><img src="https://img.shields.io/badge/website-%23DC143C.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://github.com/gomugomu-studios"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://behance.net/gomugomu-studios"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://dribbble.com/gomugomu-studios"><img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 
@@ -109,56 +100,78 @@ We are a **dynamic creative studio** specializing in bringing imagination to lif
 <br><br>
 
 <div align="center">
-<h2 align='center'><strong>Our Creative Arsenal 🛠️</strong></h2>
+<h2 align='center'><strong>Our Complete Technology & Creative Arsenal 🛠️</strong></h2>
 <br>
 <table>
 	<tr>
-		<td><strong>Animation & VFX</strong></td>
-		<td><img height=40 src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img height=40 src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Cinema4D-%23011A6B.svg?style=for-the-badge&logo=cinema4d&logoColor=white"></td>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>3D Modeling & Design</strong></td>
-		<td><img height=40 src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img height=40 src="https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></td>
+		<td><strong>Backend & APIs</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,express,php&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>3D & Animation Software</strong></td>
+		<td><img height=40 src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img height=40 src="https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Cinema4D-%23011A6B.svg?style=for-the-badge&logo=cinema4d&logoColor=white"></td>
 	</tr>
 	<tr>
 		<td><strong>Design & Graphics</strong></td>
 		<td><img height=40 src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img height=40 src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
 	</tr>
 	<tr>
-		<td><strong>Development Stack</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp&theme=dark"></td>
+		<td><strong>Motion Graphics & VFX</strong></td>
+		<td><img height=40 src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white"> <img height=40 src="https://img.shields.io/badge/adobe%20premiere-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white"> <img height=40 src="https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white"></td>
 	</tr>
 	<tr>
-		<td><strong>Creative Platforms</strong></td>
-		<td><img height=40 src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img height=40 src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Substance%20Designer-%23FF6B35.svg?style=for-the-badge&logo=adobe&logoColor=white"></td>
+		<td><strong>Database Technologies</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Cloud & Deployment</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=aws,vercel,netlify,github&theme=dark"></td>
+		<td><strong>Cloud & DevOps</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Mobile Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Collaboration Tools</strong></td>
 		<td><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></td>
-	</tr>
-	<tr>
-		<td><strong>Operating Systems</strong></td>
-		<td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
 	</tr>
 </table>
 </div>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Creative Spirit" width="100" height="100" align="right"/>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Creative Spirit" width="100" height="100" align="left"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100" height="100" align="right"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Design" width="100" height="100" align="left"/>
 
 <br/>
 <br/>
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Innovation" width="100" height="100" align="right"/>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Innovation" width="100" height="100" align="left"/>
+<img src="https://media.giphy.com/media/l0HlHJGN2ba8LWf2E/giphy.gif" alt="Creative Process" width="100" height="100" align="left"/>
+
+## 🎯 Recent Achievements & Projects
+
+**🚀 TECHNOLOGY WINS:**
+- ✅ **50+ Web Applications** delivered across various industries
+- ✅ **Government Projects** successfully completed with security compliance
+- ✅ **E-Commerce Platforms** handling 10,000+ daily transactions
+- ✅ **Enterprise Software** serving Fortune 500 companies
+
+**🎨 CREATIVE HIGHLIGHTS:**
+- ✅ **Award-Winning Animations** featured in international festivals
+- ✅ **3D Visualizations** for major product launches
+- ✅ **Brand Identity Projects** for 100+ companies
+- ✅ **Motion Graphics** with millions of views across platforms
 
 <div align="center">
-<h3 align='center'><strong>Studio Analytics & Growth 📊</strong></h3>
+<h3 align='center'><strong>Studio Analytics & Creative Output 📊</strong></h3>
 
 <br>
 
@@ -167,25 +180,25 @@ We are a **dynamic creative studio** specializing in bringing imagination to lif
     <thead>
 	    <tr>
 		  <th colspan="2" align="center">
-			   <img src="https://github-readme-stats.vercel.app/api?username=gomugomu-studios&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E67E22&icon_color=E67E22&text_color=FFFFFF" alt="Studio Analytics" style="width: 100%; object-fit: contain;" />
+			   <img src="https://github-readme-stats.vercel.app/api?username=gomugomu-studios&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=DC143C&text_color=FFFFFF" alt="Studio Analytics" style="width: 100%; object-fit: contain;" />
 		  </th>
 		</tr>
       <tr>
         <th style="padding: 20px; text-align: center;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomu-studios&theme=radical&hide_border=true&background=0D1117&stroke=E67E22&ring=E67E22&fire=E67E22&currStreakLabel=E67E22" style="width: 24.5em; height: 14em; object-fit: contain;" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomu-studios&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=DC143C&fire=DC143C&currStreakLabel=FFFFFF" style="width: 24.5em; height: 14em; object-fit: contain;" />
         </th>
         <th style="padding: 20px; text-align: center;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomu-studios&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E67E22&text_color=FFFFFF" alt="Top Languages" style="width: 100%; height: 14em; object-fit: contain;" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomu-studios&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Languages & Tools" style="width: 100%; height: 14em; object-fit: contain;" />
         </th>
       </tr>
     </thead>
 	   <tr>
         <td colspan="2" align="center"> 
 		<br>
-		<h3>🎨 Our Creative Journey</h3>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=E67E22&height=100&section=footer&text=GOMUGOMU%20STUDIOS&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%">
+		<h3>🚀 Our Development & Creative Journey</h3>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=GOMUGOMU%20STUDIOS&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%">
 		
-		<h4>Watch our contribution constellation grow! ⭐</h4>
+		<h4>Watch our contribution constellation grow! 🌟</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
@@ -198,27 +211,41 @@ We are a **dynamic creative studio** specializing in bringing imagination to lif
 </markdown-accessiblity-table>
 </div>
 
+## 🌍 Industries We Transform
+
+**💻 TECHNOLOGY SOLUTIONS:**
+🏥 **Healthcare** → Medical management systems, telemedicine platforms  
+🏦 **FinTech** → Banking applications, payment gateways, trading platforms  
+🛒 **E-Commerce** → Online stores, inventory systems, marketplace solutions  
+🏢 **Enterprise** → CRM systems, ERP solutions, workflow automation  
+
+**🎨 CREATIVE PROJECTS:**
+🎬 **Entertainment** → Animation studios, gaming companies, streaming platforms  
+🏗️ **Architecture** → 3D visualizations, virtual tours, presentation materials  
+🛍️ **Retail** → Product visualization, packaging design, brand campaigns  
+📱 **Startups** → Brand identity, UI/UX design, promotional content
+
 ---
 
 <div align="center">
 
-### 🌟 Ready to Transform Your Vision into Reality?
+### 🌟 Ready to Create Something Amazing?
 
-**Let's create something extraordinary together!**
+**Let's combine technology and creativity for your next project!**
 
-[![Contact Us](https://img.shields.io/badge/Contact%20Us-%23E67E22.svg?style=for-the-badge&logo=mail&logoColor=white)](mailto:studio@gomugomu.com)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%23FF6B35.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/gomugomu-studios)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-%230077B5.svg?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/gomugomu-studios)
+[![Get Tech Quote](https://img.shields.io/badge/Get%20Tech%20Quote-%23000000.svg?style=for-the-badge&logo=code&logoColor=white)](mailto:dev@gomugomu.com)
+[![Creative Consultation](https://img.shields.io/badge/Creative%20Brief-%23DC143C.svg?style=for-the-badge&logo=palette&logoColor=white)](mailto:creative@gomugomu.com)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/gomugomu-studios)
 
-**GOMUGOMU STUDIOS** - *Where imagination meets innovation*
+**GOMUGOMU STUDIOS** - *Where Code Meets Canvas*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=14&duration=4000&pause=1000&color=E67E22&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+our+creative+universe!;Let's+build+the+future+of+design+together!;Your+next+breakthrough+project+starts+here!" alt="Closing Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+our+creative+%26+tech+universe!;Let's+build+%26+design+the+future+together!;Your+next+breakthrough+project+starts+here!" alt="Closing Message" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E67E22&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn"/>
 
 ---
 <div align="center">
-<sub><strong>© 2024 GOMUGOMU STUDIOS. All rights reserved. | Crafted with ❤️ and countless cups of coffee ☕</strong></sub>
+<sub><strong>© 2024 GOMUGOMU STUDIOS. All rights reserved. | Built with 💻 and designed with 🎨</strong></sub>
 </div>
