@@ -31,7 +31,7 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
 - 🎨 **Current Creative Work:** 3D animations, product visualizations, brand identity design
 - 🌱 **Always Learning:** Latest frameworks, animation tools, AI/ML, creative technologies
 - 💬 **Talk to Us About:** Full-stack development, 3D modeling, web design, animation, software architecture
-- 📫 **Reach Our Teams:** dev@gomugomu.com | creative@gomugomu.com | studio@gomugomu.com
+- 📫 **Reach Our Teams:** contact.gomugomu@gmail.com | info.gomugomu@gmail.com 
 - 🤝 **Open for Collaboration:** Tech startups, creative agencies, product launches, digital transformations
 - 👀 **We're Passionate About:** Solving complex problems with elegant code AND beautiful design
 - ⚡ **Fun Fact:** We code by day, animate by night, and dream in pixels and polygons! 🌙✨
