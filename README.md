@@ -7,7 +7,8 @@
 </div>
 <br>
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](assets/hoodie%20(2).gif)
+
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;We are <img src="./assets/myname.svg"  alt="GOMU GOMU"/></h1>
 
