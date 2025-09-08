@@ -88,10 +88,10 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
 <h2 align='center'><strong>Connect With Our Teams 🌐</strong></h2>
 
 <br><br>
-<a href="https://www.linkedin.com/company/gomugomu-studios"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:studio@gomugomu.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://gomugomu-studios.com"><img src="https://img.shields.io/badge/website-%23DC143C.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="https://github.com/gomugomu-studios"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/gomugomu-studios/?viewAsMember=true"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contact.gomugomu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://gomugomu.in/"><img src="https://img.shields.io/badge/website-%23DC143C.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://github.com/GOMUGOMUSTUDIOES"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://behance.net/gomugomu-studios"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://dribbble.com/gomugomu-studios"><img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 
@@ -156,19 +156,7 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Innovation" width="100" height="100" align="right"/>
 <img src="https://media.giphy.com/media/l0HlHJGN2ba8LWf2E/giphy.gif" alt="Creative Process" width="100" height="100" align="left"/>
 
-## 🎯 Recent Achievements & Projects
 
-**🚀 TECHNOLOGY WINS:**
-- ✅ **50+ Web Applications** delivered across various industries
-- ✅ **Government Projects** successfully completed with security compliance
-- ✅ **E-Commerce Platforms** handling 10,000+ daily transactions
-- ✅ **Enterprise Software** serving Fortune 500 companies
-
-**🎨 CREATIVE HIGHLIGHTS:**
-- ✅ **Award-Winning Animations** featured in international festivals
-- ✅ **3D Visualizations** for major product launches
-- ✅ **Brand Identity Projects** for 100+ companies
-- ✅ **Motion Graphics** with millions of views across platforms
 
 <div align="center">
 <h3 align='center'><strong>Studio Analytics & Creative Output 📊</strong></h3>
