@@ -92,8 +92,7 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
 <a href="mailto:contact.gomugomu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://gomugomu.in/"><img src="https://img.shields.io/badge/website-%23DC143C.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 <a href="https://github.com/GOMUGOMUSTUDIOES"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://behance.net/gomugomu-studios"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="https://dribbble.com/gomugomu-studios"><img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+<a href="https://www.behance.net/gomugomustudios"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 
 </div>
 
