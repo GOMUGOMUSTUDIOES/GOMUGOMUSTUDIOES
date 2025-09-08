@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img align="right" alt="Creative Technology" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+<img align="right" alt="Creative Technology" width="500" height="300" src="assets/gomugomu.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomugomu-studios&label=Studio%20Visitors&color=DC143C&style=for-the-badge&abbreviated=true" alt="gomugomu-studios" /> </p>
 
