@@ -34,7 +34,7 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
 - 📫 **Reach Our Teams:** contact.gomugomu@gmail.com | info.gomugomu@gmail.com 
 - 🤝 **Open for Collaboration:** Tech startups, creative agencies, product launches, digital transformations
 - 👀 **We're Passionate About:** Solving complex problems with elegant code AND beautiful design
-- ⚡ **Fun Fact:** We code by day, animate by night, and dream in pixels and polygons! 🌙✨
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
