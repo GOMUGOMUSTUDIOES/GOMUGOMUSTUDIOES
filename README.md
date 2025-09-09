@@ -15,7 +15,7 @@
 <!-- <h1 align="center">Greetings! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;We Are <span style="color: #DC143C;">GOMUGOMU STUDIOS</span></h1> -->
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=FFFFFF&size=29&height=70&center=true&vCenter=true&width=1200&lines=Full+Stack+Development+%26+Creative+Studio;Software+Solutions+%7C+Animation+%26+Design;Web+Applications+%7C+3D+Modeling;E-Commerce+%7C+Motion+Graphics;UI/UX+Design+%7C+Backend+Systems;Technology+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=ff0303&size=29&height=70&center=true&vCenter=true&width=1200&lines=Full+Stack+Development+%26+Creative+Studio;Software+Solutions+%7C+Animation+%26+Design;Web+Applications+%7C+3D+Modeling;E-Commerce+%7C+Motion+Graphics;UI/UX+Design+%7C+Backend+Systems;Technology+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
 </h3>
 
 <h3 align="center"><strong>✨ <em>"Turning Ideas into Worlds — Animation, Design & Software That Inspire."</em> ✨</strong></h3>
