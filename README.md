@@ -101,52 +101,6 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
 
 <br><br>
 
-<div align="center">
-<h2 align='center'><strong>Our Complete Technology & Creative Arsenal 🛠️</strong></h2>
-<br>
-<table>
-	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Backend & APIs</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,express,php&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>3D & Animation Software</strong></td>
-		<td><img height=40 src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img height=40 src="https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Cinema4D-%23011A6B.svg?style=for-the-badge&logo=cinema4d&logoColor=white"></td>
-	</tr>
-	<tr>
-		<td><strong>Design & Graphics</strong></td>
-		<td><img height=40 src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img height=40 src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"> <img height=40 src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
-	</tr>
-	<tr>
-		<td><strong>Motion Graphics & VFX</strong></td>
-		<td><img height=40 src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white"> <img height=40 src="https://img.shields.io/badge/adobe%20premiere-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white"> <img height=40 src="https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white"></td>
-	</tr>
-	<tr>
-		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Cloud & DevOps</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Mobile Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Collaboration Tools</strong></td>
-		<td><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></td>
-	</tr>
-</table>
-</div>
 
 <br><br>
 
@@ -175,25 +129,11 @@ We are a **hybrid technology and creative studio** that bridges the gap between 
           </a>
         </th>
       </tr>
-    </thead>
-	   <tr>
-        <td  colspan="2" align="center"> 
-		<br>
-	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-		
-<picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-	</td>
-	</tr>
-  </table>
+    
   
 </markdown-accessiblity-table>
 </div>
 
-<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 
 
 
